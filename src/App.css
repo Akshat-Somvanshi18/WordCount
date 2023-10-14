@@ -1,0 +1,18 @@
+body,*{
+  margin: 0;
+  padding: 0;
+}
+
+.task1Div{
+  width: 500px;
+}
+.task1TextArea{
+  height: 130px;
+}
+@media screen and (max-width:550px) {
+
+  .task1Div{
+    width: 300px;
+  }
+  
+}
